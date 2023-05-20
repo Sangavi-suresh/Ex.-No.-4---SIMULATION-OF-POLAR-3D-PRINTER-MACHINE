@@ -26,8 +26,8 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+![image](https://github.com/Sangavi-suresh/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118541861/82f0754d-4ad5-4ac5-94e7-9d100bf9980b)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
 Y-Axis Base:
 The Y-axis base is the foundational component of the printer's Y-axis assembly. It serves as the mounting platform for other Y-axis components, such as smooth rods, bearings, motors, and the print bed. The Y-axis base provides stability and support to ensure accurate movement along the Y-axis.
 
@@ -68,9 +68,8 @@ Filament:
 Filament is the material used in 3D printing, usually in the form of a long, thin strand. In a Polar 3D printer assembly, filament is typically made of plastic and is fed into the extruder. The extruder heats and melts the filament, allowing it to be deposited layer by layer to create the final 3D printed object.
 
  ## OUTPUT:
- 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
+![image](https://github.com/Sangavi-suresh/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118541861/9336990b-e34c-4461-90ef-11d972e0b695)
 
 ### Name:Sangavi Suresh
 ### Register Number: 212222230130
